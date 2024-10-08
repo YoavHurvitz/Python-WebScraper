@@ -1,0 +1,4 @@
+pip-chill==1.0.3
+scrapy-scrapingbee==0.0.5
+scrapingbee==2.0.1
+json_repair==0.23.1
